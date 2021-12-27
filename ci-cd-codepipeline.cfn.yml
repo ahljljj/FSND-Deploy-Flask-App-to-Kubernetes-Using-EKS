@@ -3,8 +3,6 @@ AWSTemplateFormatVersion: 2010-09-09
 
 Description: EKSWSV1
 
-github token: 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
-
 
 Parameters:
 
